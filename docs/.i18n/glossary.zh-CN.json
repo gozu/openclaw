@@ -3328,6 +3328,22 @@
     "target": "配置 — 提供商示例"
   },
   {
+    "source": "Other update methods",
+    "target": "其他更新方式"
+  },
+  {
+    "source": "Update methods",
+    "target": "更新方式"
+  },
+  {
+    "source": "Automatic updates",
+    "target": "自动更新"
+  },
+  {
+    "source": "Rollback and recovery",
+    "target": "回滚与恢复"
+  },
+  {
     "source": "Author a policy file",
     "target": "编写策略文件"
   },
