@@ -3254,5 +3254,33 @@
   {
     "source": "Configuration — chat commands",
     "target": "配置 — 聊天命令"
+  },
+  {
+    "source": "The trust boundary",
+    "target": "信任边界"
+  },
+  {
+    "source": "Policy as code",
+    "target": "策略即代码"
+  },
+  {
+    "source": "Identity and roles",
+    "target": "身份与角色"
+  },
+  {
+    "source": "Secrets",
+    "target": "密钥"
+  },
+  {
+    "source": "Versioned state, guarded upgrades",
+    "target": "版本化状态与受保护的升级"
+  },
+  {
+    "source": "Provenance",
+    "target": "溯源"
+  },
+  {
+    "source": "OpenClaw and Hermes Agent",
+    "target": "OpenClaw 与 Hermes Agent"
   }
 ]
